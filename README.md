@@ -1,2 +1,2 @@
-![GUI 이미지](gui.jpg)
+![GUI 이미지](curling_sheet.jpg)
 
